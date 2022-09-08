@@ -1,4 +1,3 @@
-178 Bytes
 #include <stdio.h>
 
 /**
